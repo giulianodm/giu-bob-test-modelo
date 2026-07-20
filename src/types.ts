@@ -8,4 +8,5 @@ export interface Produto {
   nome: string;
   linhaId: string;
   preco: number;
+  dataLancamento: string;
 }
